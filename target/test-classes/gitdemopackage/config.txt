@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-//this is a change in git repository.
-=======
 // this is to test merge branch code
->>>>>>> feature-login
